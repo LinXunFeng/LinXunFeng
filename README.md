@@ -1,8 +1,7 @@
 ### LinXunFeng 👋
 
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LinXunFeng&show_icons=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LinXunFeng&show_icons=true" />
 
 😄 Hello，我是 `LinXunFeng`，一枚编程小萌新
 
