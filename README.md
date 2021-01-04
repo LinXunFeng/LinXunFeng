@@ -8,8 +8,9 @@
 
 📫 如果你想找我聊聊，可以给我[发邮件](mailto:linxunfeng@yeah.net)、也可以直接 [Twitter DM](https://twitter.com/xunfenghellolo)，当然，通过微信公众号私信我也可以哟😃
 
-<img align="center" height="200" width="360" src="https://github.com/LinXunFeng/LinXunFeng/blob/master/static/img/FSAQR.png" />
+<img align="right" height="275" width="495" src="https://github.com/LinXunFeng/LinXunFeng/blob/master/static/img/FSAQR.png" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinXunFeng&hide=html&langs_count=9&layout=compact)](https://github.com/LinXunFeng)
 
 <!--
 **LinXunFeng/LinXunFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
