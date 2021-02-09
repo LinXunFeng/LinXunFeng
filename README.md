@@ -12,8 +12,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinXunFeng&langs_count=10&layout=compact)](https://github.com/LinXunFeng)
 
-![Account](https://img.shields.io/badge/微信公众号-全栈行动-blue)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LinXunFeng.LinXunFeng.readme)
+![Account](https://img.shields.io/badge/微信公众号-全栈行动-brightgreen)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LinXunFeng.LinXunFeng)
 
 <!--
 **LinXunFeng/LinXunFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
