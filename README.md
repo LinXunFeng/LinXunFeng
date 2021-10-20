@@ -8,7 +8,7 @@
 
 📫 如果你想找我聊聊，可以给我[发邮件](mailto:linxunfeng@yeah.net)、也可以直接 [Twitter DM](https://twitter.com/xunfenghellolo)，当然，通过微信公众号私信我也可以哟😃
 - - -
-<img align="right" height="267.5" width="481.5" src="https://github.com/LinXunFeng/LinXunFeng/blob/master/static/img/FSAQR.png" />
+<img align="right" height="200" width="360" src="https://github.com/LinXunFeng/LinXunFeng/blob/master/static/img/FSAQR.png" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinXunFeng&langs_count=10&layout=compact)](https://github.com/LinXunFeng)
 
