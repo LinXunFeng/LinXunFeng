@@ -1,6 +1,9 @@
 ### LinXunFeng 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LinXunFeng&show_icons=true" />
+
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=LinXunFeng&show_icons=true" />-->
+
+<img align="right" height="253" width="450" src="https://github.com/LinXunFeng/LinXunFeng/blob/master/static/img/FSAQR.png" />
 
 😄 Hello，我是 `LinXunFeng`，一枚生活在深圳的编程小萌新🌱
 
@@ -8,13 +11,13 @@
 
 📫 如果你想找我聊聊，可以给我[发邮件](mailto:linxunfeng@yeah.net)、也可以直接 [Twitter DM](https://twitter.com/xunfenghellolo)，当然，通过微信公众号私信我也可以哟😃
 - - -
-<img align="right" height="230" width="414" src="https://github.com/LinXunFeng/LinXunFeng/blob/master/static/img/FSAQR.png" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinXunFeng&langs_count=10&layout=compact)](https://github.com/LinXunFeng)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinXunFeng&langs_count=10&layout=compact)](https://github.com/LinXunFeng)-->
 
 ![Account](https://img.shields.io/badge/微信公众号-FSA全栈行动-brightgreen)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=LinXunFeng.LinXunFeng)
 
+<!--
 
 ## iOS
 
@@ -46,7 +49,7 @@
 ## 逆向
 [![lxf_cycript](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=lxf_cycript&show_owner=LinXunFeng)](https://github.com/LinXunFeng/lxf_cycript)
 [![frida_study](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=frida_study&show_owner=LinXunFeng)](https://github.com/LinXunFeng/frida_study)
-
+-->
 <!--
 **LinXunFeng/LinXunFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
