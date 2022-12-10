@@ -5,9 +5,9 @@
 
 <img align="right" height="253" width="450" src="https://github.com/LinXunFeng/LinXunFeng/blob/master/static/img/FSAQR.png" />
 
-😄 Hello，我是 `LinXunFeng`，一枚生活在深圳的编程小萌新🌱
+😄 Hello，我是 `LinXunFeng`
 
-📖 有时会写一些技术博文，并同步到 [掘金](https://juejin.im/user/58f8065e61ff4b006646c72d)和[LinXunFeng‘s Blog](https://linxunfeng.top/)，汇总到[【全栈行动】](https://fullstackaction.com/)博客网站。<br>微信公众号: [FullStackAction](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png)，欢迎大家订阅 🎉
+📖 有时会写一些技术博文，并同步到 [掘金](https://juejin.im/user/58f8065e61ff4b006646c72d)和 [【全栈行动】](https://fullstackaction.com/)博客网站，<br>微信公众号: [FullStackAction](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png)，欢迎大家订阅 🎉
 
 📫 如果你想找我聊聊，可以给我[发邮件](mailto:linxunfeng@yeah.net)、也可以直接 [Twitter DM](https://twitter.com/xunfenghellolo)，当然，通过微信公众号私信我也可以哟😃
 - - -
