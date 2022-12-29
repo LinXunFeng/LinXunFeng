@@ -46,6 +46,7 @@
 [![fix_confict_SecurityEnvSDK_SGMain](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=fix_confict_SecurityEnvSDK_SGMain&show_owner=LinXunFeng)](https://github.com/LinXunFeng/fix_confict_SecurityEnvSDK_SGMain)
 [![LXFUpdatePodTool](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=LXFUpdatePodTool&show_owner=LinXunFeng)](https://github.com/LinXunFeng/LXFUpdatePodTool)
 [![transporter_fix](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=transporter_fix&show_owner=LinXunFeng)](https://github.com/LinXunFeng/transporter_fix)
+[![bugly-symbol-uploader](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=bugly-symbol-uploader&show_owner=LinXunFeng)](https://github.com/LinXunFeng/bugly-symbol-uploader)
 
 ## Flutter
 [![alog](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=alog&show_owner=LinXunFeng)](https://github.com/LinXunFeng/alog)
