@@ -22,6 +22,18 @@
 ## iOS
 
 ### 开源库
+
+|Repo|About|
+|-|-|
+|[SwiftyFitsize](https://github.com/LinXunFeng/SwiftyFitsize)|📱 Swifty screen adaptation solution (Support Objective-C and Swift)|
+|[LXFProtocolTool](https://github.com/LinXunFeng/LXFProtocolTool)|由Swift中协议方式实现功能的实用工具库【Refreshable、EmptyDataSetable 支持 Rx 】|
+|[MoyaMapper](https://github.com/MoyaMapper/MoyaMapper)|快速解析模型工具，支持RxSwift。同时支持缓存功能 【相关手册 https://MoyaMapper.github.io 】|
+|[LXFPhotoHelper](https://github.com/LinXunFeng/LXFPhotoHelper)|一行代码实现调用系统相机与相册，可配置导航栏背景与字体颜色|
+|[SwiftyTraceableValue](https://github.com/LinXunFeng/SwiftyTraceableValue)|优雅的可比较类型|
+|[LXFDrawBoard](https://github.com/LinXunFeng/LXFDrawBoard)|多功能小画板|
+
+
+<!--
 [![SwiftyFitsize](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=SwiftyFitsize&show_owner=LinXunFeng)](https://github.com/LinXunFeng/SwiftyFitsize)
 [![LXFProtocolTool](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=LXFProtocolTool&show_owner=LinXunFeng)](https://github.com/LinXunFeng/LXFProtocolTool)
 [![MoyaMapper](https://github-readme-stats.vercel.app/api/pin/?username=MoyaMapper&repo=MoyaMapper&show_owner=MoyaMapper)](https://github.com/MoyaMapper/MoyaMapper)
@@ -29,30 +41,67 @@
 [![SwiftyTraceableValue](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=SwiftyTraceableValue&show_owner=LinXunFeng)](https://github.com/LinXunFeng/SwiftyTraceableValue)
 [![LXFDrawBoard](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=LXFDrawBoard&show_owner=LinXunFeng)](https://github.com/LinXunFeng/LXFDrawBoard)
 [![LXFHouseLoanCalculator](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=LXFHouseLoanCalculator&show_owner=LinXunFeng)](https://github.com/LinXunFeng/LXFHouseLoanCalculator)
-
+-->
 
 ### 开源项目
+
+
+|Repo|About|
+|-|-|
+|[LXFWeChat](https://github.com/LinXunFeng/LXFWeChat)|Swift 3.0 WeChat|
+|[LXFFM](https://github.com/LinXunFeng/LXFFM)|高仿喜马拉雅FM|
+|[RxSwiftDemo](https://github.com/LinXunFeng/RxSwiftDemo)|RxSwift项目实战记录|
+
+
+<!--
 [![LXFWeChat](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=LXFWeChat&show_owner=LinXunFeng)](https://github.com/LinXunFeng/LXFWeChat)
 [![LXFFM](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=LXFFM&show_owner=LinXunFeng)](https://github.com/LinXunFeng/LXFFM)
 [![RxSwiftDemo](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=RxSwiftDemo&show_owner=LinXunFeng)](https://github.com/LinXunFeng/RxSwiftDemo)
 [![LXFBiliBili](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=LXFBiliBili&show_owner=LinXunFeng)](https://github.com/LinXunFeng/LXFBiliBili)
+-->
 
 ### 逆向
+
+
+|Repo|About|
+|-|-|
+|[lxf_cycript](https://github.com/LinXunFeng/lxf_cycript)|Cycript工具集|
+|[frida_study](https://github.com/LinXunFeng/frida_study)|iOS逆向 - 运行时分析（三）Frida|
+
+<!--
 [![lxf_cycript](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=lxf_cycript&show_owner=LinXunFeng)](https://github.com/LinXunFeng/lxf_cycript)
 [![frida_study](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=frida_study&show_owner=LinXunFeng)](https://github.com/LinXunFeng/frida_study)
+-->
 
 ### 脚本工具
+
+|Repo|About|
+|-|-|
+|[script_box](https://github.com/LinXunFeng/script_box)|脚本工具箱|
+|[LXFUpdatePodTool](https://github.com/LinXunFeng/LXFUpdatePodTool)|fastlane自动化更新私有库工具|
+|[transporter_fix](https://github.com/LinXunFeng/transporter_fix)|🔥 修复transporter一直卡在正在验证不动的问题，也适用于fastlane脚本上传ipa的方式|
+|[bugly-symbol-uploader](https://github.com/LinXunFeng/bugly-symbol-uploader)|符号表上传辅助工具 www.npmjs.com/package/buglysu|
+
+<!--
 [![script_box](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=script_box&show_owner=LinXunFeng)](https://github.com/LinXunFeng/script_box)
 [![fix_confict_SecurityEnvSDK_SGMain](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=fix_confict_SecurityEnvSDK_SGMain&show_owner=LinXunFeng)](https://github.com/LinXunFeng/fix_confict_SecurityEnvSDK_SGMain)
 [![LXFUpdatePodTool](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=LXFUpdatePodTool&show_owner=LinXunFeng)](https://github.com/LinXunFeng/LXFUpdatePodTool)
 [![transporter_fix](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=transporter_fix&show_owner=LinXunFeng)](https://github.com/LinXunFeng/transporter_fix)
 [![bugly-symbol-uploader](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=bugly-symbol-uploader&show_owner=LinXunFeng)](https://github.com/LinXunFeng/bugly-symbol-uploader)
+-->
 
 ## Flutter
+
+|Repo|About|
+|-|-|
+|[alog](https://github.com/LinXunFeng/alog)|Flutter打印工具|
+|[flutter_scrollview_observer](https://github.com/LinXunFeng/flutter_scrollview_observer)|A widget for observing data related to the child widgets being displayed in a scrollview.|
+
+<!--
 [![alog](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=alog&show_owner=LinXunFeng)](https://github.com/LinXunFeng/alog)
 [![flutter_demo](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=flutter_demo&show_owner=LinXunFeng)](https://github.com/LinXunFeng/flutter_demo)
 [![flutter_scrollview_observer](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=flutter_scrollview_observer&show_owner=LinXunFeng)](https://github.com/LinXunFeng/flutter_scrollview_observer)
-
+-->
 
 <!--
 **LinXunFeng/LinXunFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
