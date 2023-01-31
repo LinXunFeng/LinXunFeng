@@ -18,6 +18,18 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=LinXunFeng.LinXunFeng)
 
 
+## Flutter
+
+|Repo|About|
+|-|-|
+|[flutter_scrollview_observer](https://github.com/LinXunFeng/flutter_scrollview_observer)|A widget for observing data related to the child widgets being displayed in a scrollview.|
+|[alog](https://github.com/LinXunFeng/alog)|Flutter打印工具|
+
+<!--
+[![alog](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=alog&show_owner=LinXunFeng)](https://github.com/LinXunFeng/alog)
+[![flutter_demo](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=flutter_demo&show_owner=LinXunFeng)](https://github.com/LinXunFeng/flutter_demo)
+[![flutter_scrollview_observer](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=flutter_scrollview_observer&show_owner=LinXunFeng)](https://github.com/LinXunFeng/flutter_scrollview_observer)
+-->
 
 ## iOS
 
@@ -90,18 +102,6 @@
 [![bugly-symbol-uploader](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=bugly-symbol-uploader&show_owner=LinXunFeng)](https://github.com/LinXunFeng/bugly-symbol-uploader)
 -->
 
-## Flutter
-
-|Repo|About|
-|-|-|
-|[alog](https://github.com/LinXunFeng/alog)|Flutter打印工具|
-|[flutter_scrollview_observer](https://github.com/LinXunFeng/flutter_scrollview_observer)|A widget for observing data related to the child widgets being displayed in a scrollview.|
-
-<!--
-[![alog](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=alog&show_owner=LinXunFeng)](https://github.com/LinXunFeng/alog)
-[![flutter_demo](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=flutter_demo&show_owner=LinXunFeng)](https://github.com/LinXunFeng/flutter_demo)
-[![flutter_scrollview_observer](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=flutter_scrollview_observer&show_owner=LinXunFeng)](https://github.com/LinXunFeng/flutter_scrollview_observer)
--->
 
 <!--
 **LinXunFeng/LinXunFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
