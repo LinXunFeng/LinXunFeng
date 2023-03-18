@@ -10,6 +10,13 @@
 📖 有时会写一些技术博文，并同步到 [掘金](https://juejin.im/user/58f8065e61ff4b006646c72d)和 [【全栈行动】](https://fullstackaction.com/)博客网站，<br>微信公众号: [FullStackAction](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png)，欢迎大家订阅 🎉
 
 📫 如果你想找我聊聊，可以给我[发邮件](mailto:linxunfeng@yeah.net)、也可以直接 [Twitter DM](https://twitter.com/xunfenghellolo)，当然，通过微信公众号私信我也可以哟😃
+
+
+☕ 如果你想请我喝一杯咖啡，可以通过如下方式: 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T4JKVRP)
+[![wechat](https://img.shields.io/static/v1?label=WeChat&message=微信收款码&color=brightgreen&style=for-the-badge&logo=#07C160)](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource20220417121922/image/202303181116760.jpeg)
+
 - - -
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinXunFeng&langs_count=10&layout=compact)](https://github.com/LinXunFeng)-->
