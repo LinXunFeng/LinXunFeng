@@ -3,7 +3,7 @@
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=LinXunFeng&show_icons=true" />-->
 
-<img align="right" height="253" width="450" src="https://github.com/LinXunFeng/LinXunFeng/blob/master/static/img/FSAQR.png" />
+<img align="right" height="225" width="400" src="https://github.com/LinXunFeng/LinXunFeng/blob/master/static/img/FSAQR.png" />
 
 😄 Hello，我是 `LinXunFeng`
 
@@ -15,7 +15,7 @@
 ☕ 如果你想请我喝一杯咖啡，可以通过如下方式: 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T4JKVRP)
-[![wechat](https://img.shields.io/static/v1?label=WeChat&message=微信收款码&color=brightgreen&style=for-the-badge&logo=#07C160)](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource20220417121922/image/202303181116760.jpeg)
+[![wechat](https://img.shields.io/static/v1?label=WeChat&message=微信收款码&color=brightgreen&style=for-the-badge&logo=WeChat)](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource20220417121922/image/202303181116760.jpeg)
 
 - - -
 
