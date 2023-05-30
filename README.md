@@ -11,6 +11,7 @@
 
 📫 如果你想找我聊聊，可以给我[发邮件](mailto:linxunfeng@yeah.net)、也可以直接 [Twitter DM](https://twitter.com/xunfenghellolo)，当然，通过微信公众号私信我也可以哟😃
 
+📱 如果你想加入我们的微信技术交流群请看：[【微信群说明】](https://mp.weixin.qq.com/s/JBbMstn0qW6M71hh-BRKzw)
 
 ☕ 如果你想请我喝一杯咖啡，可以通过如下方式: 
 
