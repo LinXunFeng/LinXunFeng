@@ -5,7 +5,7 @@
 
 <img align="right" height="225" width="400" src="https://github.com/LinXunFeng/LinXunFeng/blob/master/static/img/FSAQR.png" />
 
-😄 Hello，我是 `LinXunFeng` ![Account](https://img.shields.io/badge/微信公众号-FSA全栈行动-brightgreen) 💬
+😄 Hello，我是 `LinXunFeng` [![Account](https://img.shields.io/badge/微信公众号-FSA全栈行动-brightgreen)](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png) 💬
 
 📖 有时会写一些技术博文，并同步到 [掘金](https://juejin.im/user/58f8065e61ff4b006646c72d)和 [【全栈行动】](https://fullstackaction.com/)博客网站，<br>微信公众号: [FullStackAction](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png)，欢迎大家订阅 🎉
 
