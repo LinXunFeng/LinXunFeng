@@ -26,7 +26,7 @@
 ## 角色
 | Logo                                                                       | 组织链接                                    | 描述                       |
 |:---------------------------------------------------------------------------|:---------------------------------------------|:----------------------------------|
-| <img height="41.89" width="41.89" src="https://avatars.githubusercontent.com/u/76574692?s=200&v=4" /> | FullStackAction https://github.com/FullStackAction        | 拥有者，维护技术博客与公众号: [FullStackAction](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png) |
+| <img height="41.89" width="41.89" src="https://avatars.githubusercontent.com/u/76574692?s=200&v=4" /> | FullStackAction https://github.com/FullStackAction        | 拥有者，维护技术博客与公众号: [FullStackAction](https://github.com/LinXunFeng/LinXunFeng/blob/master/static/img/FSAQR.png) |
 | ![Flutter](https://avatars.githubusercontent.com/u/14101776?s=48&v=4)      | Flutter https://github.com/flutter           | 团队成员，参与维护: [flutter](https://github.com/flutter/flutter)、[engine](https://github.com/flutter/engine)        |
 | ![FlutterCandies](https://avatars.githubusercontent.com/u/47586449?s=48&v=4) | FlutterCandies https://github.com/fluttercandies        | 团队成员，主导维护: [flutter_scrollview_observer](https://github.com/fluttercandies/flutter_scrollview_observer) |
 
