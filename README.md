@@ -115,6 +115,7 @@
 |[LXFUpdatePodTool](https://github.com/LinXunFeng/LXFUpdatePodTool)|fastlane自动化更新私有库工具|
 |[transporter_fix](https://github.com/LinXunFeng/transporter_fix)|🔥 修复transporter一直卡在正在验证不动的问题，也适用于fastlane脚本上传ipa的方式|
 |[bugly-symbol-uploader](https://github.com/LinXunFeng/bugly-symbol-uploader)|符号表上传辅助工具 www.npmjs.com/package/buglysu|
+|[condor](https://github.com/LinXunFeng/condor)|由Dart实现的符号表上传辅助工具 www.pub.dev/packages/condor_cli|
 
 <!--
 [![script_box](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=script_box&show_owner=LinXunFeng)](https://github.com/LinXunFeng/script_box)
