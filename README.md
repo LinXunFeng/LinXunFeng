@@ -46,6 +46,7 @@ AIRDROP: 0x0619B63126b34F654FB0F6710d98390da2B527f50A1F78fcD6857F1Da5c2D688
 |Repo|About|
 |-|-|
 |[flutter_scrollview_observer](https://github.com/LinXunFeng/flutter_scrollview_observer)|A widget for observing data related to the child widgets being displayed in a scrollview.|
+|[flutter_chat_packages](https://github.com/LinXunFeng/flutter_chat_packages)|A collection of useful packages about chat.|
 |[flutter_video_cache](https://github.com/LinXunFeng/flutter_video_cache)|A powerful media cache plugin.|
 |[flutter_switch_orientation](https://github.com/LinXunFeng/flutter_switch_orientation)|A Flutter plugin that switches device orientation.|
 |[alog](https://github.com/LinXunFeng/alog)|Flutter打印工具|
