@@ -18,7 +18,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T4JKVRP)
 [![wechat](https://img.shields.io/static/v1?label=WeChat&message=微信收款码&color=brightgreen&style=for-the-badge&logo=WeChat)](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource20220417121922/image/202303181116760.jpeg)
 
-AIRDROP: 0x0619B63126b34F654FB0F6710d98390da2B527f50A1F78fcD6857F1Da5c2D688
+Wallet: 0x0619B63126b34F654FB0F6710d98390da2B527f50A1F78fcD6857F1Da5c2D688
 <!-- - - - -->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinXunFeng&langs_count=10&layout=compact)](https://github.com/LinXunFeng)-->
