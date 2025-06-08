@@ -42,6 +42,7 @@ Wallet: 0x0619B63126b34F654FB0F6710d98390da2B527f50A1F78fcD6857F1Da5c2D688
 |[flutter_video_cache](https://github.com/LinXunFeng/flutter_video_cache)|A powerful media cache plugin.|
 |[flutter_switch_orientation](https://github.com/LinXunFeng/flutter_switch_orientation)|A Flutter plugin that switches device orientation.|
 |[alog](https://github.com/LinXunFeng/alog)|Flutter打印工具|
+|[getx_helper](https://github.com/LinXunFeng/getx_helper)|简化与规范 GetX tag 的应用|
 
 <!--
 [![alog](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=alog&show_owner=LinXunFeng)](https://github.com/LinXunFeng/alog)
