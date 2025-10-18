@@ -41,8 +41,9 @@
 |[flutter_chat_packages](https://github.com/LinXunFeng/flutter_chat_packages)|A collection of useful packages about chat.|
 |[flutter_video_cache](https://github.com/LinXunFeng/flutter_video_cache)|A powerful media cache plugin.|
 |[flutter_switch_orientation](https://github.com/LinXunFeng/flutter_switch_orientation)|A Flutter plugin that switches device orientation.|
-|[alog](https://github.com/LinXunFeng/alog)|Flutter打印工具|
+|[flutter_webview_completion_fix](https://github.com/LinXunFeng/flutter_webview_completion_fix)|A Flutter plugin that fixes iOS WebView crashes caused by uncalled completion handlers in WKWebView navigation delegate methods. [flutter/flutter#102476](https://github.com/flutter/flutter/issues/102476)|
 |[getx_helper](https://github.com/LinXunFeng/getx_helper)|简化与规范 GetX tag 的应用|
+|[alog](https://github.com/LinXunFeng/alog)|Flutter打印工具|
 
 <!--
 [![alog](https://github-readme-stats.vercel.app/api/pin/?username=LinXunFeng&repo=alog&show_owner=LinXunFeng)](https://github.com/LinXunFeng/alog)
