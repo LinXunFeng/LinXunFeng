@@ -43,6 +43,7 @@
 |[flutter_switch_orientation](https://github.com/LinXunFeng/flutter_switch_orientation)|A Flutter plugin that switches device orientation.|
 |[flutter_webview_completion_fix](https://github.com/LinXunFeng/flutter_webview_completion_fix)|A Flutter plugin that fixes iOS WebView crashes caused by uncalled completion handlers in WKWebView navigation delegate methods. [flutter/flutter#102476](https://github.com/flutter/flutter/issues/102476)|
 |[getx_helper](https://github.com/LinXunFeng/getx_helper)|简化与规范 GetX tag 的应用|
+|[local_pub_workspace](https://github.com/LinXunFeng/local_pub_workspace)|本地 workspace 拼好包|
 |[alog](https://github.com/LinXunFeng/alog)|Flutter打印工具|
 
 <!--
