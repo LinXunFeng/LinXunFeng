@@ -39,6 +39,7 @@
 |-|-|
 |[flutter_scrollview_observer](https://github.com/LinXunFeng/flutter_scrollview_observer)|A widget for observing data related to the child widgets being displayed in a scrollview.|
 |[flutter_chat_packages](https://github.com/LinXunFeng/flutter_chat_packages)|A collection of useful packages about chat.|
+|[flutter_compare_slider](https://github.com/LinXunFeng/flutter_compare_slider)|A slider that allows users to compare two widgets.|
 |[flutter_video_cache](https://github.com/LinXunFeng/flutter_video_cache)|A powerful media cache plugin.|
 |[flutter_switch_orientation](https://github.com/LinXunFeng/flutter_switch_orientation)|A Flutter plugin that switches device orientation.|
 |[flutter_webview_completion_fix](https://github.com/LinXunFeng/flutter_webview_completion_fix)|A Flutter plugin that fixes iOS WebView crashes caused by uncalled completion handlers in WKWebView navigation delegate methods. [flutter/flutter#102476](https://github.com/flutter/flutter/issues/102476)|
