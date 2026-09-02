@@ -82,6 +82,7 @@
 
 |Repo|About|
 |-|-|
+|[silo](https://github.com/LinXunFeng/silo)|A local model library for macOS. Download once, link everywhere.|
 |[LXFWeChat](https://github.com/LinXunFeng/LXFWeChat)|Swift 3.0 WeChat|
 |[LXFFM](https://github.com/LinXunFeng/LXFFM)|高仿喜马拉雅FM|
 |[RxSwiftDemo](https://github.com/LinXunFeng/RxSwiftDemo)|RxSwift项目实战记录|
